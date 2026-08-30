@@ -115,24 +115,7 @@ A deliberately vulnerable e-commerce application designed to practice the comple
 
 The project covers:
 
-* 🌐 Web Application Security
-* 🔌 API Security
-* 🛡️ OWASP Top 10
-* 🔐 Authentication & Authorization
-* 🪪 BOLA / IDOR
-* 💉 SQL Injection
-* 🖥️ Cross-Site Scripting
-* 🔄 CSRF
-* 🌍 SSRF
-* 🔑 JWT Security
-* 📁 File Upload Security
-* ⚠️ Security Misconfiguration
-* 🔍 Secure Code Review
-* 🧪 Security Regression Testing
-* ⚙️ CI/CD Security
-* 🐳 Container Security
-* 📦 Software Supply Chain Security
-* 📊 Security Monitoring
+* 🌐 Web Application Security, API Security, OWASP Top 10, Authentication & Authorization, 🪪 BOLA / IDOR, SQL Injection, Cross-Site Scripting, CSRF, SSRF, JWT Security, File Upload Security, Security Misconfiguration, Secure Code Review, Security Regression Testing, CI/CD Security, Container Security, Software Supply Chain Security, Security Monitoring
 
 ---
 
@@ -229,17 +212,6 @@ INFRASTRUCTURE
 
 I document practical security research, vulnerability analysis, penetration testing labs, and Application Security projects on medium.
 
-### Topics
-
-* 🔐 Application Security
-* 🌐 Web Security
-* 🔌 API Security
-* 🧪 Penetration Testing
-* 🔍 Vulnerability Research
-* ⚙️ DevSecOps
-* 🐳 Container Security
-* 📚 Security Engineering
-
 ---
 
 ## 🎯 Current Goals
@@ -289,6 +261,10 @@ My goal is to continuously develop as an **Application Security Engineer** by co
 
 <a href="https://youtube.com/@gabbytech01">
 <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=red"/>
+</a>
+
+<a href="https://medium.com/@gabbytech01">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 </p>
