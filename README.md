@@ -1,1 +1,312 @@
-# portfolio
+# 👋 Hi, I'm Gabriel Odusanya
+
+### Application Security Engineer | Penetration Tester | Security Researcher | SecDevOps Practitioner | YouTube Creator
+
+I build, break, secure, and automate software.
+
+I'm a cybersecurity practitioner focused on **Application Security, Web & API Security, Penetration Testing, Vulnerability Research, and SecDevOps**.
+
+I believe the best way to understand security is to build real systems, attack them, fix the weaknesses, and automate the security controls around them.
+
+> **Build → Break → Fix → Test → Automate → Document**
+
+---
+
+## 🛡️ About Me
+
+* 🔐 Application Security & Penetration Testing
+* 🌐 Web Application & API Security
+* 🧪 Vulnerability Research & Bug Bounty Hunting
+* 🔑 Authentication & Authorization Security
+* 🪪 JWT, BOLA, IDOR & Access Control
+* 🐳 Docker & Container Security
+* ⚙️ Secure SDLC & DevSecOps
+* 🔄 CI/CD Security Automation
+* ☁️ Cloud Security
+* 🔍 Secure Code Review
+* 📚 Security Research & Technical Documentation
+
+---
+
+## 💻 Languages
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQL"/>
+
+</p>
+
+**Primary:** Python • JavaScript • TypeScript • Bash
+**Web:** HTML • CSS • JavaScript
+**Database:** SQL
+**Automation:** Python • Bash
+
+---
+
+## 🧰 Security Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ⚙️ Technologies & Infrastructure
+
+### Development
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+
+</p>
+
+### DevSecOps & Infrastructure
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/>
+
+</p>
+
+**CI/CD:** GitHub Actions • Jenkins
+**Containers:** Docker • Docker Compose
+**Cloud:** Microsoft Azure
+**OS:** Linux
+**Version Control:** Git • GitHub
+
+---
+
+## 🚀 What I'm Currently Building
+
+### 🛒 VulnMart — Application Security Engineering Lab
+
+A deliberately vulnerable e-commerce application designed to practice the complete **Application Security Engineering lifecycle**.
+
+### Build → Break → Fix → Test → Automate → Document
+
+The project covers:
+
+* 🌐 Web Application Security
+* 🔌 API Security
+* 🛡️ OWASP Top 10
+* 🔐 Authentication & Authorization
+* 🪪 BOLA / IDOR
+* 💉 SQL Injection
+* 🖥️ Cross-Site Scripting
+* 🔄 CSRF
+* 🌍 SSRF
+* 🔑 JWT Security
+* 📁 File Upload Security
+* ⚠️ Security Misconfiguration
+* 🔍 Secure Code Review
+* 🧪 Security Regression Testing
+* ⚙️ CI/CD Security
+* 🐳 Container Security
+* 📦 Software Supply Chain Security
+* 📊 Security Monitoring
+
+---
+
+## 🔥 Security Focus
+
+```text
+APPLICATION SECURITY
+│
+├── Web Security
+├── API Security
+├── Authentication
+├── Authorization
+├── Secure Code Review
+├── Vulnerability Assessment
+├── Penetration Testing
+└── Threat Modeling
+
+DEVSECOPS
+│
+├── CI/CD Security
+├── SAST
+├── DAST
+├── SCA
+├── Secret Detection
+├── Container Security
+└── Security Automation
+
+INFRASTRUCTURE
+│
+├── Linux
+├── Networking
+├── Docker
+├── Cloud Security
+└── System Hardening
+```
+
+---
+
+## 📌 Featured Projects
+
+| Project                        | Description                                      | Focus               |
+| ------------------------------ | ------------------------------------------------ | ------------------- |
+| 🛒 **VulnMart**                | Application Security Engineering Laboratory      | Web & API Security  |
+| 🔐 **Security Labs**           | Vulnerable applications and security experiments | Penetration Testing |
+| ⚙️ **SecDevOps Pipeline**      | Automated security controls in CI/CD             | DevSecOps           |
+| 🧪 **Security Research**       | Vulnerability research and technical analysis    | Research            |
+| 🐳 **Container Security Labs** | Docker security and hardening experiments        | Container Security  |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cybergabby&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybergabby&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=cybergabby&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cybergabby&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/cybergabby/cybergabby/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+## ✍️ Security Write-ups
+
+I document practical security research, vulnerability analysis, penetration testing labs, and Application Security projects.
+
+### Topics
+
+* 🔐 Application Security
+* 🌐 Web Security
+* 🔌 API Security
+* 🧪 Penetration Testing
+* 🔍 Vulnerability Research
+* ⚙️ DevSecOps
+* 🐳 Container Security
+* 📚 Security Engineering
+
+---
+
+## 🎯 Current Goals
+
+```text
+[x] Learn
+[x] Build
+[x] Break
+[x] Fix
+[x] Test
+[ ] Automate
+[ ] Scale
+[ ] Research
+[ ] Contribute
+```
+
+My goal is to continuously develop as an **Application Security Engineer** by combining offensive security, software engineering, cloud, and DevSecOps.
+
+---
+
+## 📚 Currently Learning
+
+* Application Security Engineering
+* Secure Software Development
+* API Security
+* Cloud Security
+* Container Security
+* DevSecOps
+* CI/CD Security
+* Threat Modeling
+* Software Supply Chain Security
+* AI & LLM Security
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/cybergabby">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/gabbytech01">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gabbytechsec">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://hackmd.io/@GABBYTECH">
+<img src="https://img.shields.io/badge/HackMD-000000?style=for-the-badge&logo=hackmd&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Security Philosophy
+
+> **Don't just learn security. Build systems, break them, understand why they failed, fix them, and automate the lessons.**
+
+⭐ If you find my work useful, consider starring the repositories.
