@@ -10,7 +10,6 @@ I believe the best way to understand security is to build real systems, attack t
 
 > **Build → Break → Fix → Test → Automate → Document**
 
----
 
 ## 💻 Languages
 
@@ -29,7 +28,6 @@ I believe the best way to understand security is to build real systems, attack t
 **Database:** SQL
 **Automation:** Python • Bash
 
----
 
 ## 🧰 Security Tools
 
@@ -49,7 +47,6 @@ I believe the best way to understand security is to build real systems, attack t
 
 </p>
 
----
 
 ## ⚙️ Technologies & Infrastructure
 
@@ -87,8 +84,6 @@ I believe the best way to understand security is to build real systems, attack t
 **OS:** Linux
 **Version Control:** Git • GitHub
 
----
-
 ## 📌 Featured Projects
 
 | Project                        | Description                                      | Focus               |
@@ -99,7 +94,6 @@ I believe the best way to understand security is to build real systems, attack t
 | 🧪 **Security Research**       | Vulnerability research and technical analysis    | Research            |
 | 🐳 **Container Security Labs** | Docker security and hardening experiments        | Container Security  |
 
----
 
 ## 📊 GitHub Statistics
 
@@ -119,14 +113,6 @@ I believe the best way to understand security is to build real systems, attack t
 
 </p>
 
----
-
-## ✍️ Security Write-ups
-
-I document practical security research, vulnerability analysis, penetration testing labs, and Application Security projects on medium.
-
----
-
 ## 🎯 Current Goals
 
 ```text
@@ -143,22 +129,6 @@ I document practical security research, vulnerability analysis, penetration test
 
 My goal is to continuously develop as an **Application Security Engineer** by combining offensive security, software engineering, cloud, and DevSecOps.
 
----
-
-## 📚 Currently Learning
-
-* Application Security Engineering
-* Secure Software Development
-* API Security
-* Cloud Security
-* Container Security
-* DevSecOps
-* CI/CD Security
-* Threat Modeling
-* Software Supply Chain Security
-* AI & LLM Security
-
----
 
 ## 🌐 Connect With Me
 
