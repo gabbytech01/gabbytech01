@@ -12,22 +12,6 @@ I believe the best way to understand security is to build real systems, attack t
 
 ---
 
-## 🛡️ About Me
-
-* 🔐 Application Security & Penetration Testing
-* 🌐 Web Application & API Security
-* 🧪 Vulnerability Research & Bug Bounty Hunting
-* 🔑 Authentication & Authorization Security
-* 🪪 JWT, BOLA, IDOR & Access Control
-* 🐳 Docker & Container Security
-* ⚙️ Secure SDLC & DevSecOps
-* 🔄 CI/CD Security Automation
-* ☁️ Cloud Security
-* 🔍 Secure Code Review
-* 📚 Security Research & Technical Documentation
-
----
-
 ## 💻 Languages
 
 <p align="left">
@@ -105,55 +89,6 @@ I believe the best way to understand security is to build real systems, attack t
 
 ---
 
-## 🚀 What I'm Currently Building
-
-### 🛒 VulnMart — Application Security Engineering Lab
-
-A deliberately vulnerable e-commerce application designed to practice the complete **Application Security Engineering lifecycle**.
-
-### Build → Break → Fix → Test → Automate → Document
-
-The project covers:
-
-* 🌐 Web Application Security, API Security, OWASP Top 10, Authentication & Authorization, 🪪 BOLA / IDOR, SQL Injection, Cross-Site Scripting, CSRF, SSRF, JWT Security, File Upload Security, Security Misconfiguration, Secure Code Review, Security Regression Testing, CI/CD Security, Container Security, Software Supply Chain Security, Security Monitoring
-
----
-
-## 🔥 Security Focus
-
-```text
-APPLICATION SECURITY
-│
-├── Web Security
-├── API Security
-├── Authentication
-├── Authorization
-├── Secure Code Review
-├── Vulnerability Assessment
-├── Penetration Testing
-└── Threat Modeling
-
-DEVSECOPS
-│
-├── CI/CD Security
-├── SAST
-├── DAST
-├── SCA
-├── Secret Detection
-├── Container Security
-└── Security Automation
-
-INFRASTRUCTURE
-│
-├── Linux
-├── Networking
-├── Docker
-├── Cloud Security
-└── System Hardening
-```
-
----
-
 ## 📌 Featured Projects
 
 | Project                        | Description                                      | Focus               |
@@ -193,16 +128,6 @@ INFRASTRUCTURE
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybergabby&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/cybergabby/cybergabby/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
