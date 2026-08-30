@@ -105,29 +105,17 @@ I believe the best way to understand security is to build real systems, attack t
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cybergabby&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gabbytech01&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybergabby&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbytech01&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=cybergabby&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cybergabby&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
