@@ -51,15 +51,17 @@ I believe the best way to understand security is to build real systems, attack t
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>
 
 </p>
 
@@ -225,7 +227,7 @@ INFRASTRUCTURE
 
 ## ✍️ Security Write-ups
 
-I document practical security research, vulnerability analysis, penetration testing labs, and Application Security projects.
+I document practical security research, vulnerability analysis, penetration testing labs, and Application Security projects on medium.
 
 ### Topics
 
@@ -277,10 +279,6 @@ My goal is to continuously develop as an **Application Security Engineer** by co
 
 <p align="left">
 
-<a href="https://github.com/cybergabby">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://x.com/gabbytech01">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
@@ -289,8 +287,8 @@ My goal is to continuously develop as an **Application Security Engineer** by co
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://hackmd.io/@GABBYTECH">
-<img src="https://img.shields.io/badge/HackMD-000000?style=for-the-badge&logo=hackmd&logoColor=white"/>
+<a href="https://youtube.com/@gabbytech01">
+<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=red"/>
 </a>
 
 </p>
