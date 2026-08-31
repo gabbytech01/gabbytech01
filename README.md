@@ -152,8 +152,6 @@ My goal is to continuously develop as an **Application Security Engineer** by co
 
 </p>
 
----
-
 ## 💭 Security Philosophy
 
 > **Don't just learn security. Build systems, break them, understand why they failed, fix them, and automate the lessons.**
