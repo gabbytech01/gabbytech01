@@ -105,28 +105,6 @@ I believe the best way to understand security is to build real systems, attack t
 
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=cybergabby&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-## 🎯 Current Goals
-
-```text
-[x] Learn
-[x] Build
-[x] Break
-[x] Fix
-[x] Test
-[ ] Automate
-[ ] Scale
-[ ] Research
-[ ] Contribute
-```
-
 My goal is to continuously develop as an **Application Security Engineer** by combining offensive security, software engineering, cloud, and DevSecOps.
 
 
