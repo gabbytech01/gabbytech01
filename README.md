@@ -1,12 +1,17 @@
-# I'm Gabriel Odusanya
+I'm Gabriel Odusanya 👋
 
-### Application Security Engineer | Security Researcher | SecDevOps Practitioner | YouTube Creator
+I'm an Application Security Engineer, Penetration Tester, and Security Researcher passionate about building and securing modern applications from code to cloud.
 
-I'm a cybersecurity practitioner focused on **Application Security, Web & API Security, Penetration Testing, Vulnerability Research, and SecDevOps**.
+My work focuses on application security, API security, cloud-native security, DevSecOps, threat modeling, secure code review, and offensive security testing. I help identify vulnerabilities early in the software development lifecycle and work with engineering teams to embed security into how applications are designed, built, deployed, and operated.
 
-I believe the best way to understand security is to build real systems, attack them, fix the weaknesses, and automate the security controls around them.
+My areas of interest include:
 
-> **Build → Break → Fix → Test → Automate → Document**
+Application Security, API Security, Cloud Security, DevSecOps, Threat Modeling, Secure Code Review, Container Security, CI/CD Security & Security Automation
+
+I believe security should be an engineering practice, not a compliance checkbox. My goal is to help organizations build resilient systems that are secure by design and capable of withstanding real-world threats.
+
+Current Focus on Application Security Secure CI/CD Pipelines API Security Testing Security Automation Security Architecture 
+Securing applications from code to cloud.
 
 
 ## 💻 Languages
