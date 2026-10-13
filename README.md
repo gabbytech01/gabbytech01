@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Gabriel Odusanya
 
-### Application Security Engineer | Penetration Tester | Security Researcher | SecDevOps Practitioner | YouTube Creator
-
-I build, break, secure, and automate software.
+### Application Security Engineer | Security Researcher | SecDevOps Practitioner | YouTube Creator
 
 I'm a cybersecurity practitioner focused on **Application Security, Web & API Security, Penetration Testing, Vulnerability Research, and SecDevOps**.
 
@@ -27,6 +25,7 @@ I believe the best way to understand security is to build real systems, attack t
 **Web:** HTML • CSS • JavaScript
 **Database:** SQL
 **Automation:** Python • Bash
+
 
 
 ## 🧰 Security Tools
@@ -66,6 +65,7 @@ I believe the best way to understand security is to build real systems, attack t
 
 </p>
 
+
 ### DevSecOps & Infrastructure
 
 <p align="left">
@@ -78,11 +78,13 @@ I believe the best way to understand security is to build real systems, attack t
 
 </p>
 
+
 **CI/CD:** GitHub Actions • Jenkins
 **Containers:** Docker • Docker Compose
 **Cloud:** Microsoft Azure
 **OS:** Linux
 **Version Control:** Git • GitHub
+
 
 ## 📌 Featured Projects
 
@@ -93,6 +95,7 @@ I believe the best way to understand security is to build real systems, attack t
 | ⚙️ **SecDevOps Pipeline**      | Automated security controls in CI/CD             | DevSecOps           |
 | 🧪 **Security Research**       | Vulnerability research and technical analysis    | Research            |
 | 🐳 **Container Security Labs** | Docker security and hardening experiments        | Container Security  |
+
 
 
 ## 📊 GitHub Statistics
@@ -106,6 +109,7 @@ I believe the best way to understand security is to build real systems, attack t
 </p>
 
 My goal is to continuously develop as an **Application Security Engineer** by combining offensive security, software engineering, cloud, and DevSecOps.
+
 
 
 ## 🌐 Connect With Me
@@ -129,6 +133,8 @@ My goal is to continuously develop as an **Application Security Engineer** by co
 </a>
 
 </p>
+
+
 
 ## 💭 Security Philosophy
 
