@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gabriel Odusanya
+# I'm Gabriel Odusanya
 
 ### Application Security Engineer | Security Researcher | SecDevOps Practitioner | YouTube Creator
 
